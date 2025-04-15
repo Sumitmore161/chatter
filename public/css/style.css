@@ -142,7 +142,7 @@ a {
 }
 
 .join-main {
-	padding: 30px 40px 150px 30px;
+	padding: 30px 40px 40px 30px;
 	background: var(--dark-color-b);
 }
 
@@ -174,7 +174,7 @@ a {
 }
 
 .join-main .btn {
-	margin-top: 250px;
+	margin-top: 20px;
 	
 	width: 100%;
 }
@@ -187,15 +187,4 @@ a {
 	.chat-sidebar {
 		display: none;
 	}
-}
-.g-signin2{
-	display: none;
-}
-.sign-in{
-	
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	margin-top: -50px;
-	margin-left: -50px;
 }
