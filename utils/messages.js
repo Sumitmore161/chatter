@@ -1,5 +1,5 @@
 const moment =require('moment');
-
+//moment is imported for message formating 
 function formatMessage(username,text){
     return{
         username,
